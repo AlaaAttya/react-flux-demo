@@ -1,0 +1,19 @@
+{
+  "name": "eventsApp",
+  "version": "1.0.0",
+  "description": "Building a basic event app as a demo for using react and flux",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alaa Attya <alaa.attya91@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "flux": "^2.0.1",
+    "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.5.2",
+    "keymirror": "^0.1.1",
+    "react": "^0.13.0",
+    "reactify": "^1.1.0"
+  }
+}
